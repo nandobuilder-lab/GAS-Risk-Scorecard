@@ -11,7 +11,7 @@ This tool was built to standardize how risk cases are captured and evaluated. In
 ---
 ## Important Links
 - [Live Application](https://script.google.com/macros/s/AKfycbxysrw_zPZ6DDyLuyZG1qS8kJaCniSUtwB897hbMzSqXnPAlJfXKroigxasChiVXP7mIw/exec)
-- [Database](https://docs.google.com/spreadsheets/d/11s1Maz8KyQUP8Id_axBDzl1YGPy3oZYhpQ_tWdIGM8U/edit?gid=0#gid=0)
+- [Database and Codebase](https://docs.google.com/spreadsheets/d/11s1Maz8KyQUP8Id_axBDzl1YGPy3oZYhpQ_tWdIGM8U/edit?gid=0#gid=0)
 ---
 ## Features
 
